@@ -1,2 +1,2 @@
 # shiyan
-this is a learning
+this is a learn
